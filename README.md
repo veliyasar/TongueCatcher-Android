@@ -1,6 +1,6 @@
 # Tongue Catcher
 
-![Screenshot1](TC Screenshot 1.png)
-![Screenshot2](TC Screenshot 2.png)
-![Screenshot3](TC Screenshot 3.png)
+![](https://mega.nz/file/WSZ1jQKJ#gDOYgE4ZGyV-AcoO0E0aITJNaw24qKe-8rVFE-WQWxI)
+![](https://mega.nz/file/rbJFwQ6Y#pG_75EjDiwSKwvQKOOuCCp8YJa2oU1reyYmEsqQpTyA)
+![](TC Screenshot 3.png)
 
