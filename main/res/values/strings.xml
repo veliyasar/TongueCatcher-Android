@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Tongue Catcher</string>
+
+
+    <string name="explaining_welcome">In this game, you\'re supposed to guess the language according to the given script\n\nYou can adjust the level in settings menu</string>
+    <string name="greeting_welcome">Welcome to\nTongue Catcher</string>
+    <string name="explaining_settings">Level is set to Easy by default\nClicking on Back starts the Test</string>
+
+
+    <!--    <string name="e_text_"></string>-->
+    <string name="e_text_german">Im Gegensatz zu herkömmlichen Desktop-Computern hat man bei Android-Geräten nicht das vollständige Administrationsrecht.</string>
+    <string name="e_text_turkish">Android, Google tarafından tamamen özgür yazılım olarak yayınlanmadığı için eleştirilmektedir. SDK\'nın bazı bölümleri hala patentli olup açık kaynak kodlu değildir.</string>
+    <string name="e_text_italian">Nel 2010 è stata presentata e messa in commercio una nuova generazione di smartphone con sistema operativo Android che, spinti dal Nexus One, hanno caratteristiche tecniche di livello superiore.</string>
+    <string name="e_text_spanish">En muchos casos, no llegan a funcionar correctamente en el hardware diseñado para versiones previas, hacen que Android sea considerado uno de los elementos promotores de la obsolescencia programada.</string>
+    <string name="e_text_chinese">厂商要畀微软相当手机成本10%个铜钿做牌照费，而Android就免费开源，外加，手机制造商搭运营商为了要保障收入，常常会得限制用户好用个功能搭服务。</string>
+    <string name="e_text_french">Les différentes versions d\'Android ont des noms de dessert ou plus généralement de sucreries (souvent seulement en anglais) depuis la sortie de la version 1.5 (Cupcake).</string>
+    <string name="e_text_arabic">أندرويد "مكتبة سي القياسية، بيونيك، تم تطويرها من قبل جوجل خصيصا لأندرويد، واشتقاق من توزيعة برمجيات بيركلي معيار مكتبة سي للتعليمات البرمجية.</string>
+    <string name="e_text_russian">В результате, реальные поставляемые устройства на Андроид содержат смесь из программного обеспечения с открытым кодом и закрытым кодом. </string>
+    <string name="e_text_greek">Επιτρέπει στους κατασκευαστές λογισμικού να συνθέτουν κώδικα με την χρήση της γλώσσας προγραμματισμού Java, ελέγχοντας την συσκευή μέσω βιβλιοθηκών λογισμικού ανεπτυγμένων από την Google.</string>
+    <string name="e_text_portuguese">O sucesso do SO fez dele um alvo para disputas de patente na chamada "guerra de smartphones" entre empresas de tecnologia. </string>
+    <string name="e_text_korean">이전 버전을 사용하는 기기들은 바로 업데이트를 제공받을 수 없으며, 기기 제조사에서 구글의 소스를 받아 직접 작업후 배포해야 하므로 가끔씩 하드웨어 성능의 한계로 업그레이드가 취소되기도 한다.</string>
+
+
+    <!--List<String> mediumOptions = Arrays.asList("dutch", "swedish", "hindi", "japanese", "ukrainian", "latin", "bengali", "polish", "romanian", "tagalog", "czech");-->
+
+    <string name="m_text_dutch">Sinds de eerste introductie van Android zijn er veel nieuwe functies toegevoegd en wijzigingen aangebracht. In tegenstelling tot veel andere software en besturingssystemen lijkt er geen algemeen overzicht met release notes te zijn.</string>
+    <string name="m_text_swedish">Tredjepartsappar, såsom det forskningsfinansierade projektet TaintDroid, har i vissa fall förmågan att övervaka när personlig information vidarebefordras från applikationer på enheten vidare till fjärrservrar.</string>
+    <string name="m_text_hindi">एन्ड्रॉयड का उपयोक्ता अन्तराफ़लक (यूज़र इंटरफेस) स्पर्श (टच) पर आधारित है और स्वाईपिंग, टैपिंग, पिंचिंग जैसी क्रियाओं की मदद से उपयोगकर्ता स्क्रीन पर वस्तुओं का नियंत्रण कर सकता है। इसके अलावा गेम कण्ट्रोलर या. </string>
+    <string name="m_text_japanese">基本操作はタッチインターフェースとなっており、指を使って直感的な操作ができるようになっている。表示されたボタン類を押すタップ、長押しタップ（つまむ）、</string>
+    <string name="m_text_ukrainian">Базовим елементом цієї операційної системи є реалізація Dalvik віртуальної машини Java, і все програмне забезпечення і застосування спираються на цю реалізацію Java.</string>
+    <string name="m_text_latin">"Omnes Apps" velum enumerat omnes applicationes inauguratus, cum facultate usorum trahere app e indice super screen domum. Inscriptio appli accedere potest utens gestu vel puga pyga, secundum versionem Android.</string>
+    <string name="m_text_bengali">ওপেন হ্যান্ডসেট এল্যায়েন্সের শুরুর সাথে অ্যান্ড্রয়েডের বিতরণ উন্মুক্ত করা হয় ৫ই নভেম্বর ২০০৭ সালে, যেখানে ৮০টি হার্ডওয়্যার, সফটওয়্যার এবং টেলিকম কোম্পানি ছিল। তাদের সকলের উদ্দেশ্য ছিল মুক্ত </string>
+    <string name="m_text_polish">Popularność systemu Android na świecie jest pokazana również przez to, że jedynymi smartfonami w Wielkiej Brytanii, umożliwiającymi złożenie wniosku o osiedlenie w formie elektronicznej.</string>
+    <string name="m_text_romanian">La acea dată se cunoștea foarte puțin despre Android, Inc., doar că făceau software pentru telefoane mobile. Aceasta a cauzat zvonuri că Google ar plănui să intre pe piața telefoniei mobile.</string>
+    <string name="m_text_tagalog">Itong code na open-source at paglilisensyang mapagpahintulot ay nagbibigay-daan sa software upang ma-modify na malaya at maibigay ng mga tagagawa ng mga device, mga wireless carrier at mga developer na enthusiast.</string>
+    <string name="m_text_czech">Vyvíjí konsorcium Open Handset Alliance, jehož cílem je progresivní rozvoj mobilních technologií, které budou mít výrazně nižší náklady na vývoj a distribuci, a zároveň spotřebitelům přinese inovativní uživatelsky.</string>
+
+<!--List<String > hardOptions = ("catalan", "indonesian", "malayalam", "persian", "georgian", "hungarian", "kazakh", "armenian", "uzbek", "welsh", "norwegian");-->
+
+    <string name="h_text_catalan">Les últimes dades diuen que cada dia sactiven a tot el món més de 850.000 dispositius Android, així doncs, arribant a la xifra total de més de 300 milions d-Androids repartits per tot el món.</string>
+    <string name="h_text_indonesian">Sifat Android yang terbuka juga telah mendorong munculnya sejumlah besar komunitas pengembang aplikasi untuk menggunakan kode sumber terbuka sebagai dasar proyek pembuatan aplikasi.</string>
+    <string name="h_text_malayalam">വെബ്‌കിറ്റ് ആഖ്യാനരീതിയടിസ്ഥാനമാക്കിയ വെബ് ബ്രൗസർ ആൻഡ്രോയ്ഡിൽ ലഭ്യമാണ്. ഇത് ക്രോമിന്റെ എട്ടാം പതിപ്പ് ജാവാസ്ക്രിപ്റ്റ് എഞ്ചിനുമായി വിളക്കപ്പെട്ടിരിക്കുന്നു. ഇത് ആൻഡ്രോയ്ഡ്</string>
+    <string name="h_text_persian">آرت محیط اجرای جدید اندروید برای برنامه‌های تحت جاوا است که جایگزین دالویک شده‌است. شرکت گوگل برای اولین بار در اندروید ۴٫۴ آرت را در کنار دالویک قرار داد و کاربران می‌توانستند با مراجعه به </string>
+    <string name="h_text_georgian">წლის მაისის მონაცემებით, ანდროიდი ყველაზე პოპულარული მობილური ოპერაციული სისტემაა; არის ბაზრის ლიდერი ქვეყნების უმრავლესობაში, მათ შორის აშშ-ში ამ დროისათვის.</string>
+    <string name="h_text_hungarian">Napjainkra az Android platform iránt a mobiltelefon- és a tabletgyártók izgalmát leszámítva nagy érdeklődés mutatkozik a gépjárművek fedélzeti számítógépét és navigációját szállító cégek.</string>
+    <string name="h_text_swahili">Za kulaghai watumiaji au za kutumia kufanya ulaghai kama vile apps za kufichua nenosiri au kuiba mtandao wa intaneti. Ni muhimu mtu kuwa na uhakika na apps anazoziweka kwa simu yake.</string>
+    <string name="h_text_armenian">Անդրոիդը ավտոմատ ձևով կարգավորում է հիշողությունում գտնվող հավելվածները՝ երբ հիշողությունում քիչ ազատ տեղ է մնացել (խոսքը օպերատիվ հիշողության մասին է), ապա օպերացիոն համակարգը:</string>
+    <string name="h_text_uzbek">2017 yil yanvar oyida The Information nashrining hisobotida aytilishicha, Google ozining arzon Android One dasturini Qoshma Shtatlarda kengaytirmoqda, ammo The Verge kompaniyaning.</string>
+    <string name="h_text_welsh">System weithredu ar sail Linux, ar gyfer ffonau symudol megis ffonau clyfar a thabledi yw Android. Datblygwyd gan yr Open Handset Alliance, o dan arweinyddiaeth Google, a chwmnïau eraill.</string>
+    <string name="h_text_norwegian">Android har sett ei rekkje oppdateringar sidan den fyrste utgåva, kvar med feilretting og introduksjon av nye funksjonar. Kvar versjon har eit namn i alfabetisk rekkefølgje, etter ein dessert.</string>
+
+
+<!--for displaying results-->
+    <string name="text_for_rights">Right response count: %1d</string>
+    <string name="text_for_wrongs">Wrong response count: %1d</string>
+    <string name="text_for_percent">Score: %1d%%</string>
+
+</resources>
